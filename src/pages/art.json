@@ -1,0 +1,88 @@
+{
+  "categories": {
+    "Abstract": {
+      "items": [
+        { "id": 1, "name": "Colorful Chaos", "artist": "John Doe", "price": 100, "image_url": "https://example.com/colorful_chaos.jpg" },
+        { "id": 2, "name": "Mystic Shapes", "artist": "Jane Smith", "price": 150, "image_url": "https://example.com/mystic_shapes.jpg" },
+        { "id": 3, "name": "Fluid Dreams", "artist": "Emily White", "price": 120, "image_url": "https://example.com/fluid_dreams.jpg" },
+        { "id": 4, "name": "Blurred Lines", "artist": "Michael Brown", "price": 110, "image_url": "https://example.com/blurred_lines.jpg" },
+        { "id": 5, "name": "Enigma", "artist": "David Green", "price": 130, "image_url": "https://example.com/enigma.jpg" },
+        { "id": 6, "name": "Ethereal", "artist": "Alice Blue", "price": 140, "image_url": "https://example.com/ethereal.jpg" },
+        { "id": 7, "name": "Surreal Wave", "artist": "Robert Black", "price": 160, "image_url": "https://example.com/surreal_wave.jpg" },
+        { "id": 8, "name": "Vortex", "artist": "Olivia Yellow", "price": 170, "image_url": "https://example.com/vortex.jpg" }
+      ]
+    },
+    "Calligraphy": {
+      "items": [
+        { "id": 9, "name": "Elegant Strokes", "artist": "Liam Gray", "price": 90, "image_url": "https://example.com/elegant_strokes.jpg" },
+        { "id": 10, "name": "Scripted Beauty", "artist": "Sophia Pink", "price": 85, "image_url": "https://example.com/scripted_beauty.jpg" },
+        { "id": 11, "name": "Flowing Ink", "artist": "Chris Black", "price": 95, "image_url": "https://example.com/flowing_ink.jpg" },
+        { "id": 12, "name": "Golden Letters", "artist": "Emma Red", "price": 105, "image_url": "https://example.com/golden_letters.jpg" },
+        { "id": 13, "name": "Artful Script", "artist": "Sophia White", "price": 115, "image_url": "https://example.com/artful_script.jpg" },
+        { "id": 14, "name": "Mystic Calligraphy", "artist": "John Smith", "price": 125, "image_url": "https://example.com/mystic_calligraphy.jpg" },
+        { "id": 15, "name": "Gothic Letters", "artist": "Jane Doe", "price": 135, "image_url": "https://example.com/gothic_letters.jpg" },
+        { "id": 16, "name": "Brush Dance", "artist": "Olivia Blue", "price": 145, "image_url": "https://example.com/brush_dance.jpg" }
+      ]
+    },
+    "Landscape": {
+      "items": [
+        { "id": 17, "name": "Mountain View", "artist": "David Brown", "price": 200, "image_url": "https://example.com/mountain_view.jpg" },
+        { "id": 18, "name": "Sunset Bliss", "artist": "Olivia Green", "price": 210, "image_url": "https://example.com/sunset_bliss.jpg" },
+        { "id": 19, "name": "Golden Fields", "artist": "Liam White", "price": 220, "image_url": "https://example.com/golden_fields.jpg" },
+        { "id": 20, "name": "Serene Lake", "artist": "Emma Black", "price": 230, "image_url": "https://example.com/serene_lake.jpg" },
+        { "id": 21, "name": "Forest Whisper", "artist": "Michael Blue", "price": 240, "image_url": "https://example.com/forest_whisper.jpg" },
+        { "id": 22, "name": "Canyon Dreams", "artist": "Sophia Yellow", "price": 250, "image_url": "https://example.com/canyon_dreams.jpg" },
+        { "id": 23, "name": "Ocean Breeze", "artist": "Robert Red", "price": 260, "image_url": "https://example.com/ocean_breeze.jpg" },
+        { "id": 24, "name": "Winter's Calm", "artist": "Emily Brown", "price": 270, "image_url": "https://example.com/winters_calm.jpg" }
+      ]
+    },
+    "Modern": {
+      "items": [
+        { "id": 25, "name": "Urban Jungle", "artist": "Alice Gray", "price": 180, "image_url": "https://example.com/urban_jungle.jpg" },
+        { "id": 26, "name": "City Lights", "artist": "Chris Blue", "price": 190, "image_url": "https://example.com/city_lights.jpg" },
+        { "id": 27, "name": "Neon Dreams", "artist": "Sophia Black", "price": 195, "image_url": "https://example.com/neon_dreams.jpg" },
+        { "id": 28, "name": "Tech Horizon", "artist": "David Yellow", "price": 185, "image_url": "https://example.com/tech_horizon.jpg" },
+        { "id": 29, "name": "Futuristic Visions", "artist": "Liam Green", "price": 175, "image_url": "https://example.com/futuristic_visions.jpg" },
+        { "id": 30, "name": "Digital Cityscape", "artist": "Emma Red", "price": 165, "image_url": "https://example.com/digital_cityscape.jpg" },
+        { "id": 31, "name": "Minimalist Aura", "artist": "Robert Brown", "price": 155, "image_url": "https://example.com/minimalist_aura.jpg" },
+        { "id": 32, "name": "Abstract Metropolis", "artist": "Jane Smith", "price": 145, "image_url": "https://example.com/abstract_metropolis.jpg" }
+      ]
+    },
+    "Monography": {
+      "items": [
+        { "id": 33, "name": "Monochrome Dreams", "artist": "John Doe", "price": 120, "image_url": "https://example.com/monochrome_dreams.jpg" },
+        { "id": 34, "name": "Black and White Symphony", "artist": "Jane Doe", "price": 130, "image_url": "https://example.com/black_white_symphony.jpg" },
+        { "id": 35, "name": "Gray Scale", "artist": "Michael Pink", "price": 110, "image_url": "https://example.com/gray_scale.jpg" },
+        { "id": 36, "name": "Shadow Play", "artist": "Alice White", "price": 140, "image_url": "https://example.com/shadow_play.jpg" },
+        { "id": 37, "name": "Ink Elegance", "artist": "David Gray", "price": 150, "image_url": "https://example.com/ink_elegance.jpg" },
+        { "id": 38, "name": "Monotone Harmony", "artist": "Chris Brown", "price": 160, "image_url": "https://example.com/monotone_harmony.jpg" },
+        { "id": 39, "name": "Dark Light", "artist": "Emily Green", "price": 170, "image_url": "https://example.com/dark_light.jpg" },
+        { "id": 40, "name": "Silent Echo", "artist": "Sophia Black", "price": 180, "image_url": "https://example.com/silent_echo.jpg" }
+      ]
+    },
+    "Digital Art": {
+      "items": [
+        { "id": 41, "name": "Cyber World", "artist": "John Yellow", "price": 150, "image_url": "https://example.com/cyber_world.jpg" },
+        { "id": 42, "name": "Virtual Reality", "artist": "Jane Pink", "price": 160, "image_url": "https://example.com/virtual_reality.jpg" },
+        { "id": 43, "name": "Digital Dreams", "artist": "Michael Blue", "price": 170, "image_url": "https://example.com/digital_dreams.jpg" },
+        { "id": 44, "name": "Futuristic Scenery", "artist": "Olivia Green", "price": 180, "image_url": "https://example.com/futuristic_scenery.jpg" },
+        { "id": 45, "name": "Pixel Fantasy", "artist": "David Red", "price": 190, "image_url": "https://example.com/pixel_fantasy.jpg" },
+        { "id": 46, "name": "Digital Harmony", "artist": "Chris Black", "price": 200, "image_url": "https://example.com/digital_harmony.jpg" },
+        { "id": 47, "name": "Cybernetic Art", "artist": "Emily White", "price": 210, "image_url": "https://example.com/cybernetic_art.jpg" },
+        { "id": 48, "name": "AI Imagery", "artist": "Sophia Yellow", "price": 220, "image_url": "https://example.com/ai_imagery.jpg" }
+      ]
+    },
+    "Canvas": {
+      "items": [
+        { "id": 49, "name": "Acrylic Waves", "artist": "John Green", "price": 130, "image_url": "https://example.com/acrylic_waves.jpg" },
+        { "id": 50, "name": "Oil Portrait", "artist": "Jane Black", "price": 140, "image_url": "https://example.com/oil_portrait.jpg" },
+        { "id": 51, "name": "Textured Horizon", "artist": "Michael Brown", "price": 150, "image_url": "https://example.com/textured_horizon.jpg" },
+        { "id": 52, "name": "Canvas Serenity", "artist": "Alice Yellow", "price": 160, "image_url": "https://example.com/canvas_serenity.jpg" },
+        { "id": 53, "name": "Canvas Dreams", "artist": "David White", "price": 170, "image_url": "https://example.com/canvas_dreams.jpg" },
+        { "id": 54, "name": "Brush Canvas", "artist": "Olivia Brown", "price": 180, "image_url": "https://example.com/brush_canvas.jpg" },
+        { "id": 55, "name": "Layered Colors", "artist": "Chris Green", "price": 190, "image_url": "https://example.com/layered_colors.jpg" },
+        { "id": 56, "name": "Impressionist Bliss", "artist": "Sophia Blue", "price": 200, "image_url": "https://example.com/impressionist_bliss.jpg" }
+      ]
+    }
+  }
+}
